@@ -4,3 +4,5 @@
 #### heading 4
 ##### heading 5
 ###### heading 6
+
+![Image of Yakicat](https://octodex.github.com/images/yaktocat.png)
